@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Shahbaz Husain Khan</h1>
-<h3 align="center">I am FullStack Developer </h3>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;FrontEnd+Web+Developer;Gamer;Love+to+read+books;Always%20learning%20new%20things&center=true&width=380&height=45&">
+	</a>
+</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -37,7 +41,7 @@
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 </p>
 
-
+## 📊 GitHub Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shbzkhan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shbzkhan" /></p>
 
