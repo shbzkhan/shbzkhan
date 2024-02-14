@@ -5,7 +5,7 @@
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;FrontEnd+Web+Developer;Gamer;Love+to+read+books;Always%20learning%20new%20things&center=true&width=380&height=45&">
 	</a>
 </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611da38255c139e66b1a58b0fc1b8ad7120012359ec&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shbzkhan&label=Profile%20views&color=0e75b6&style=flat" alt="shbzkhan" /> </p>
